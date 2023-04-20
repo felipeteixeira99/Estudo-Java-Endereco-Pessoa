@@ -17,6 +17,9 @@ public class TestarEndereco {
 				+ " " + endereco.getBairro()
 				+ " " + endereco.getCidade()
 				+ " " + endereco.getEstado());
+		
+		System.out.println("Alteracao teste");
+		
 	}
 
 }
