@@ -22,6 +22,8 @@ public class TestarPessoa {
 		System.out.println("Endereco " + endereco.getRua());
 		
 		//System.out.println(pessoa.getNome().getEndereco());
+		
+		System.out.println("Alteração nessa linha realizada pela a maquina que eu uso no trabalho...feita para teste");
 
 	}
 
